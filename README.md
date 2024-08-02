@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tarun 👋
 
 <!--
 **badflametarun/badflametarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I'm a UG Student.
+🌱 I’m currently learning advanced machine learning algorithms and data analysis techniques.
+👯 I’m looking to collaborate on open-source AI projects and innovative ML research.
+📫 How to reach me: tsahu@ssipmt.com
