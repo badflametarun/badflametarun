@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I'm a UG Student.
 - 🌱 I’m currently learning advanced machine learning algorithms and data analysis techniques.
 - 👯 I’m looking to collaborate on open-source AI projects and innovative ML research.
-- 📫 How to reach me: tsahu@ssipmt.com
+- 📫 How to reach me: tsahu@ssipmt.com , tarunsahu1809@outlook.com
